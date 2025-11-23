@@ -1273,3 +1273,15 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.carousel-caption {
+  color: #272829;
+}
+
+
+
+
+#certCarousel .carousel-control-next-icon,
+#certCarousel .carousel-control-prev-icon {
+  filter: invert(1); 
+}
